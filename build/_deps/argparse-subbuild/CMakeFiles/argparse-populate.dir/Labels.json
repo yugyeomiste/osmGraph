@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"argparse-populate"
+		],
+		"name" : "argparse-populate"
+	}
+}

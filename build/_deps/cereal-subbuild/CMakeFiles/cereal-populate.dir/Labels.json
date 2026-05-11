@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/CMakeFiles/cereal-populate"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/CMakeFiles/cereal-populate.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/CMakeFiles/cereal-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test.rule"
+		},
+		{
+			"file" : "/Users/romana/Downloads/osmGraph/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cereal-populate"
+		],
+		"name" : "cereal-populate"
+	}
+}
